@@ -136,14 +136,12 @@
 .cards-heading h1 {
   width: 329px;
   font-size: 30px;
-  /* margin-left: 500px; */
   margin: 0 auto;
   margin-bottom: 20px;
 }
 .cards-heading p {
   width: 454px;
   color: #4f5665;
-  /* margin-left: 440px; */
   margin: 0 auto;
   line-height: 1.5rem;
 }
